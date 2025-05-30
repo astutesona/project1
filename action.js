@@ -1,1 +1,1 @@
-c
+alert("welcome to hubnet")
